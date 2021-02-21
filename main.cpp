@@ -19,7 +19,7 @@ int main()
 		sum = a + b;
 		cout << "the sum is  " << sum << endl;
 	}
-	else cout << "A not greater than B";
+	else cout << "a not greater than b";
 	cin >> sum;
 	
 
